@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 书体坊米芾体;
+    src: url("../font/米芾字体.ttf");
+}
+@font-face {
+    font-family: 书体坊兰亭体;
+    src: url("../font/书体坊兰亭体.ttf");
+}
+@font-face {
+    font-family: Tencent;
+    src: url("../font/TencentSans-W7-CN.otf");
+}
